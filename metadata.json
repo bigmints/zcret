@@ -1,0 +1,5 @@
+{
+  "name": "WhisperVault",
+  "description": "A secure secret manager with ephemeral 15-second sharing via QR/Link and AI-powered password analysis. Includes CSV import support for external password managers.",
+  "requestFramePermissions": []
+}
